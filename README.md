@@ -93,6 +93,12 @@ Run locally:
 streamlit run app.py
 
 ---
+## Live Demo Deployment(Streamlit app)
+
+ * Click here :
+https://deovd6eehhcr89gsxfzgza.streamlit.app/
+
+---
 
 ##  Final Thoughts
 
